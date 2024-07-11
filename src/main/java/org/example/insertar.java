@@ -48,6 +48,7 @@ public class insertar {
                     cp.setString(4,vb.getTipoCombustible());
                     cp.setString(5,vb.getColor());
                     cp.setString(6,vb.getPropietario());
+                    //Hola
 
 
 
