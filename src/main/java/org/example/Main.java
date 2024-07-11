@@ -11,5 +11,6 @@ public class Main {
         ED.setSize(700, 700);
         ED.setVisible(true);
 
+
     }
 }
